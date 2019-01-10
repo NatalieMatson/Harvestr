@@ -1,0 +1,22 @@
+{
+  "name": "harvestr",
+  "version": "0.1.0",
+  "description": "Web scraping application with ease of use in mind.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalieMatson/Harvestr.git"
+  },
+  "keywords": [
+    "Scraper"
+  ],
+  "author": "Natalie Quinn Matson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NatalieMatson/Harvestr/issues"
+  },
+  "homepage": "https://github.com/NatalieMatson/Harvestr#readme"
+}
