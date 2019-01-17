@@ -8,7 +8,6 @@ import mongoose from 'mongoose';
 const app = express();
 const router = express.Router();
 
-
 const API_PORT = process.env.API_PORT || 3001;
 
 // Configuring API to use BodyParser and look for JSON Data.
